@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Tomek\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Tomek\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Tomek\\Documents\\Arduino\\kraft_amp_dele\\output\\sketch\\kraft_amp_dele.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "C:\\Users\\Tomek\\Documents\\Arduino\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Tomek\\Documents\\Arduino\\kraft_amp_dele\\output\\sketch\\kraft_amp_dele.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tomek\\Documents\\Arduino\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

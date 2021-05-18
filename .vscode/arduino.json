@@ -1,0 +1,8 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "kraft_amp_dele.ino",
+    "port": "COM5",
+    "output": "output",
+    "programmer": "arduino:avrisp"
+    
+}
